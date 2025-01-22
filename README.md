@@ -1,7 +1,11 @@
-# ***Overview Of EDA-Projects Repository*** 
+# **Overview Of EDA-Projects Repository**
 - The `EDA-Projects` is a collection of exploratory data analysis projects designed to extract valuable insights from diverse datasets. Each project demonstrates a structured approach to data analysis, featuring techniques such as data cleaning, visualization, and pattern recognition. This repository serves as a practical guide for beginners, offering a variety of examples that illustrate how to effectively explore and interpret data. Whether you're interested in understanding trends, making data-driven decisions, or simply exploring new datasets, EDA-Projects provides a comprehensive resource for enhancing your analytical skills.
 
-# ***Google Playstore Data***
+<div style="text-align: center;">
+    <img src="banner_img.jpg" alt="My Banner" style="width: 100%; max-width: 700px; height:400px; border-radius: 10px;"/>
+</div>
+
+## **Google Playstore Data**
 
 ### `About dataset`
 - Description
@@ -23,18 +27,38 @@
 
 - The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
 
-# Repo Owner
+## **Feel Free to Reach out**
 
-<img  alt="Owner Pic" src="yousuf_shah.jpg" height="100px">
+<div class="contact-info">
+  <h3 class="section-title">
+    <strong>Author Name:</strong>
+    <a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="_blank">Yousuf Shah</a>
+  </h3>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://yousfshah.github.io/Portfolio_Website/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio_Website-Website-blue?style=for-the-badge&logo=link" alt="Portfolio Website" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Yousfshah" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.kaggle.com/yousufshah" target="_blank">
+          <img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Yousfshah](https://github.com/Yousfshah)
-
-- 📫 How to reach me **contact.ys09@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousuf shah" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/yousufshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yousuf shah" height="30" width="40" /></a>
-</p>
